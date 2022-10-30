@@ -1,0 +1,11 @@
+C:\Users\Linh\Desktop\Telekom + Ausbildung\My C# Projects\Snakes Game\Classic Snakes Game\Classic Snakes Game\obj\Debug\Classic Snakes Game.csproj.AssemblyReference.cache
+C:\Users\Linh\Desktop\Telekom + Ausbildung\My C# Projects\Snakes Game\Classic Snakes Game\Classic Snakes Game\obj\Debug\Classic Snakes Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Linh\Desktop\Telekom + Ausbildung\My C# Projects\Snakes Game\Classic Snakes Game\Classic Snakes Game\obj\Debug\Classic_Snakes_Game.Form1.resources
+C:\Users\Linh\Desktop\Telekom + Ausbildung\My C# Projects\Snakes Game\Classic Snakes Game\Classic Snakes Game\obj\Debug\Classic_Snakes_Game.Properties.Resources.resources
+C:\Users\Linh\Desktop\Telekom + Ausbildung\My C# Projects\Snakes Game\Classic Snakes Game\Classic Snakes Game\obj\Debug\Classic Snakes Game.csproj.GenerateResource.cache
+C:\Users\Linh\Desktop\Telekom + Ausbildung\My C# Projects\Snakes Game\Classic Snakes Game\Classic Snakes Game\obj\Debug\Classic Snakes Game.csproj.CoreCompileInputs.cache
+C:\Users\Linh\Desktop\Telekom + Ausbildung\My C# Projects\Snakes Game\Classic Snakes Game\Classic Snakes Game\bin\Debug\Classic Snakes Game.exe.config
+C:\Users\Linh\Desktop\Telekom + Ausbildung\My C# Projects\Snakes Game\Classic Snakes Game\Classic Snakes Game\bin\Debug\Classic Snakes Game.exe
+C:\Users\Linh\Desktop\Telekom + Ausbildung\My C# Projects\Snakes Game\Classic Snakes Game\Classic Snakes Game\bin\Debug\Classic Snakes Game.pdb
+C:\Users\Linh\Desktop\Telekom + Ausbildung\My C# Projects\Snakes Game\Classic Snakes Game\Classic Snakes Game\obj\Debug\Classic Snakes Game.exe
+C:\Users\Linh\Desktop\Telekom + Ausbildung\My C# Projects\Snakes Game\Classic Snakes Game\Classic Snakes Game\obj\Debug\Classic Snakes Game.pdb
